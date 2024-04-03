@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009391916977",
+    "project_id": "gateapp-239bc",
+    "storage_bucket": "gateapp-239bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009391916977:android:57b52658cfed3b45830f90",
+        "android_client_info": {
+          "package_name": "com.example.gated"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtlrMc1koEYQhlJL4hxln2ccryNnMVGLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
